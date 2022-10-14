@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "xUJuAgWnxLvikyRT+8tSkOKOZlDXc9Yymf7tTDL4vBj0/c6Hq+gZQ71NHpY/8KaAWUk7Dp6T+cI9Zckdx6qm2A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\seyitali.cevik\\source\\repos\\MicroServiceSample\\CategoryApi\\CategoryApiSample\\CategoryApiSample.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\seyitali.cevik\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\seyitali.cevik\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\seyitali.cevik\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\seyitali.cevik\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\seyitali.cevik\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\seyitali.cevik\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}

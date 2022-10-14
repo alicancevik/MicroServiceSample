@@ -1,0 +1,11 @@
+C:\Users\seyitali.cevik\source\repos\MicroServiceSample\Entities\MicroServiceEntities\bin\Debug\net5.0\MicroServiceEntities.deps.json
+C:\Users\seyitali.cevik\source\repos\MicroServiceSample\Entities\MicroServiceEntities\bin\Debug\net5.0\MicroServiceEntities.dll
+C:\Users\seyitali.cevik\source\repos\MicroServiceSample\Entities\MicroServiceEntities\bin\Debug\net5.0\ref\MicroServiceEntities.dll
+C:\Users\seyitali.cevik\source\repos\MicroServiceSample\Entities\MicroServiceEntities\bin\Debug\net5.0\MicroServiceEntities.pdb
+C:\Users\seyitali.cevik\source\repos\MicroServiceSample\Entities\MicroServiceEntities\obj\Debug\net5.0\MicroServiceEntities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\seyitali.cevik\source\repos\MicroServiceSample\Entities\MicroServiceEntities\obj\Debug\net5.0\MicroServiceEntities.AssemblyInfoInputs.cache
+C:\Users\seyitali.cevik\source\repos\MicroServiceSample\Entities\MicroServiceEntities\obj\Debug\net5.0\MicroServiceEntities.AssemblyInfo.cs
+C:\Users\seyitali.cevik\source\repos\MicroServiceSample\Entities\MicroServiceEntities\obj\Debug\net5.0\MicroServiceEntities.csproj.CoreCompileInputs.cache
+C:\Users\seyitali.cevik\source\repos\MicroServiceSample\Entities\MicroServiceEntities\obj\Debug\net5.0\MicroServiceEntities.dll
+C:\Users\seyitali.cevik\source\repos\MicroServiceSample\Entities\MicroServiceEntities\obj\Debug\net5.0\ref\MicroServiceEntities.dll
+C:\Users\seyitali.cevik\source\repos\MicroServiceSample\Entities\MicroServiceEntities\obj\Debug\net5.0\MicroServiceEntities.pdb

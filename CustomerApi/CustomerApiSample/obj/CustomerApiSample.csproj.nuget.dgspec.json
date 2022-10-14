@@ -1,0 +1,129 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\seyitali.cevik\\source\\repos\\MicroServiceSample\\CustomerApi\\CustomerApiSample\\CustomerApiSample.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\seyitali.cevik\\source\\repos\\MicroServiceSample\\CustomerApi\\CustomerApiSample\\CustomerApiSample.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\seyitali.cevik\\source\\repos\\MicroServiceSample\\CustomerApi\\CustomerApiSample\\CustomerApiSample.csproj",
+        "projectName": "CustomerApiSample",
+        "projectPath": "C:\\Users\\seyitali.cevik\\source\\repos\\MicroServiceSample\\CustomerApi\\CustomerApiSample\\CustomerApiSample.csproj",
+        "packagesPath": "C:\\Users\\seyitali.cevik\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\seyitali.cevik\\source\\repos\\MicroServiceSample\\CustomerApi\\CustomerApiSample\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\seyitali.cevik\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\seyitali.cevik\\source\\repos\\MicroServiceSample\\Entities\\MicroServiceEntities\\MicroServiceEntities.csproj": {
+                "projectPath": "C:\\Users\\seyitali.cevik\\source\\repos\\MicroServiceSample\\Entities\\MicroServiceEntities\\MicroServiceEntities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\seyitali.cevik\\source\\repos\\MicroServiceSample\\Entities\\MicroServiceEntities\\MicroServiceEntities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\seyitali.cevik\\source\\repos\\MicroServiceSample\\Entities\\MicroServiceEntities\\MicroServiceEntities.csproj",
+        "projectName": "MicroServiceEntities",
+        "projectPath": "C:\\Users\\seyitali.cevik\\source\\repos\\MicroServiceSample\\Entities\\MicroServiceEntities\\MicroServiceEntities.csproj",
+        "packagesPath": "C:\\Users\\seyitali.cevik\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\seyitali.cevik\\source\\repos\\MicroServiceSample\\Entities\\MicroServiceEntities\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\seyitali.cevik\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
