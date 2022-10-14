@@ -2,3 +2,5 @@
 - CategoryApi
 - ProductApi
 - CustomerApi
+
+- ApiGateway
